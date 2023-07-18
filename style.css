@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.welcome-banner {
+    background-color: #1d70b8;
+    color: white;
+    padding: 8px;
+}
+
+body {
+    margin: 0px;
+}
+
+
+
+
